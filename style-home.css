@@ -108,7 +108,7 @@ em strong {
 
 footer {
 	text-align: center;
-	background: url("assets/bg.jpg");
+	background: url("/bg.jpg");
 	padding: 40px 0px;
 }
 
